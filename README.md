@@ -2,6 +2,7 @@
 본 저장소는 「딥러닝 기반 다중라벨 12리드 심전도 데이터 분류 성능 평가」의 실험 코드를 포함하고 있습니다.  
 PhysioNet 2021 Challenge ECG 데이터를 기반으로 1D ResNet 모델을 이용한 다중라벨 심전도 분류기를 구현하고, 리드 수, 전처리 방식, threshold 조정이 성능에 미치는 영향을 분석하였습니다.
 
+<img width="1107" height="830" alt="image" src="https://github.com/user-attachments/assets/f38c5247-9a09-4c7a-a7cc-676b5f5dc67a" />
 
 
 ## 주요 특징
