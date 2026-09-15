@@ -50,7 +50,7 @@ The study compared the following ECG lead configurations:
 
 Three preprocessing strategies were evaluated:
 
-<img width="1038" height="820" alt="image" src="https://github.com/user-attachments/assets/2aae8137-d0e5-4643-968a-950ffec658a8" />
+**<img width="1038" height="820" alt="image" src="https://github.com/user-attachments/assets/2aae8137-d0e5-4643-968a-950ffec658a8" />**
 
 
 ### Raw ECG
