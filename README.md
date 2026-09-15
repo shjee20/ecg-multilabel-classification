@@ -271,16 +271,6 @@ This repository does not include the raw ECG dataset, trained model weights, or 
 
 Some file paths in the notebooks and scripts may need to be modified according to the local data directory structure.
 
-## 17. Citation
-
-If you use this repository or refer to this work, please cite:
-
-```text
-Jee, S. H., & Kim, Y.-C. (2025).
-Evaluating the Performance of the Deep Learning-based ECG Multilabel Classifiers for the Choices of Lead Counts and Preprocessing Methods.
-The Journal of Korean Institute of Next Generation Computing, 21(6), 60–69.
-```
-
 
 
 
