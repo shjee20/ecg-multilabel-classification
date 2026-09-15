@@ -48,6 +48,10 @@ The study compared the following ECG lead configurations:
 
 ## 5. Preprocessing Methods
 
+<p align="center">
+  <img width="800" alt="ECG multilabel classification result" src="https://github.com/user-attachments/assets/2aae8137-d0e5-4643-968a-950ffec658a8" />
+</p>
+
 Three preprocessing strategies were evaluated:
 
 ### Raw ECG
@@ -61,11 +65,6 @@ The Pan-Tompkins-based preprocessing method was used to emphasize QRS-related in
 ### Discrete Wavelet Transform
 
 Discrete wavelet transform (DWT) was used to reduce baseline drift while preserving the overall ECG waveform structure.
-
-
-<p align="center">
-  <img width="600" alt="ECG multilabel classification result" src="https://github.com/user-attachments/assets/2aae8137-d0e5-4643-968a-950ffec658a8" />
-</p>
 
 ## 6. Model Architecture
 
